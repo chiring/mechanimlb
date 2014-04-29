@@ -1,6 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+
+//GITHUBTEST
+
 public class Hit : MonoBehaviour {
 
 	float m_minTimeBetweenTwoReceivedHits = 0.3f;
